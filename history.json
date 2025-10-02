@@ -1,0 +1,532 @@
+[
+  {
+    "file": "sample_text.pdf",
+    "num": 10,
+    "difficulty": "easy",
+    "time": "2025-09-29 10:31:11",
+    "mcqs": [
+      {
+        "question": "_____ applications include expert systems, speech recognition, and machine vision.",
+        "options": [
+          "Bradypus tridactylus",
+          "three-toed sloth",
+          "AI",
+          "artificial intelligence"
+        ],
+        "answer": "AI"
+      },
+      {
+        "question": "In education,\n_____ can be used to generate multiple-choice questions, assist teachers in evaluating student performance,\nand personalize learning experiences.",
+        "options": [
+          "Bradypus tridactylus",
+          "artificial intelligence",
+          "AI",
+          "three-toed sloth"
+        ],
+        "answer": "AI"
+      },
+      {
+        "question": "Artificial Intelligence (_____) is a branch of computer science that aims to create machines\nthat can perform tasks that typically require human intelligence.",
+        "options": [
+          "artificial intelligence",
+          "Bradypus tridactylus",
+          "AI",
+          "three-toed sloth"
+        ],
+        "answer": "AI"
+      },
+      {
+        "question": "Machine learning, a subset of _____,\nfocuses on the development of computer programs that can access data and use it to learn for themselves.",
+        "options": [
+          "Bradypus tridactylus",
+          "AI",
+          "three-toed sloth",
+          "artificial intelligence"
+        ],
+        "answer": "AI"
+      },
+      {
+        "question": "These _____ include learning,\nreasoning, problem-solving, perception, and language understanding.",
+        "options": [
+          "undertaking",
+          "labor",
+          "tasks",
+          "tax"
+        ],
+        "answer": "tasks"
+      }
+    ]
+  },
+  {
+    "file": "sample_text.pdf",
+    "num": 16,
+    "difficulty": "easy",
+    "time": "2025-09-29 10:31:28",
+    "mcqs": [
+      {
+        "question": "Artificial Intelligence (_____) is a branch of computer science that aims to create machines\nthat can perform tasks that typically require human intelligence.",
+        "options": [
+          "Bradypus tridactylus",
+          "AI",
+          "artificial intelligence",
+          "three-toed sloth"
+        ],
+        "answer": "AI"
+      },
+      {
+        "question": "In education,\n_____ can be used to generate multiple-choice questions, assist teachers in evaluating student performance,\nand personalize learning experiences.",
+        "options": [
+          "three-toed sloth",
+          "artificial intelligence",
+          "AI",
+          "Bradypus tridactylus"
+        ],
+        "answer": "AI"
+      },
+      {
+        "question": "Machine learning, a subset of _____,\nfocuses on the development of computer programs that can access data and use it to learn for themselves.",
+        "options": [
+          "AI",
+          "three-toed sloth",
+          "artificial intelligence",
+          "Bradypus tridactylus"
+        ],
+        "answer": "AI"
+      },
+      {
+        "question": "_____ applications include expert systems, speech recognition, and machine vision.",
+        "options": [
+          "Bradypus tridactylus",
+          "AI",
+          "artificial intelligence",
+          "three-toed sloth"
+        ],
+        "answer": "AI"
+      },
+      {
+        "question": "These _____ include learning,\nreasoning, problem-solving, perception, and language understanding.",
+        "options": [
+          "tasks",
+          "labor",
+          "undertaking",
+          "tax"
+        ],
+        "answer": "tasks"
+      }
+    ]
+  },
+  {
+    "file": "sample_text.pdf",
+    "num": 16,
+    "difficulty": "medium",
+    "time": "2025-09-29 10:31:39",
+    "mcqs": [
+      {
+        "question": "Machine learning, a _____ of AI,\nfocuses on the development of computer programs that can access data and use it to learn for themselves.",
+        "options": [
+          "subset",
+          "subsets",
+          "subsets",
+          "subseting"
+        ],
+        "answer": "subset"
+      },
+      {
+        "question": "These tasks include learning,\nreasoning, problem-solving, _____, and language understanding.",
+        "options": [
+          "sensing",
+          "perceptual experience",
+          "perception",
+          "percept"
+        ],
+        "answer": "perception"
+      },
+      {
+        "question": "Artificial _____ (AI) is a branch of computer science that aims to create machines\nthat can perform tasks that typically require human intelligence.",
+        "options": [
+          "intelligence agency",
+          "tidings",
+          "intelligence service",
+          "Intelligence"
+        ],
+        "answer": "Intelligence"
+      },
+      {
+        "question": "AI applications include expert systems, speech recognition, and machine _____.",
+        "options": [
+          "sight",
+          "visual sensation",
+          "vision",
+          "visual sense"
+        ],
+        "answer": "vision"
+      },
+      {
+        "question": "In education,\n_____ can be used to generate multiple-choice questions, assist teachers in evaluating student performance,\nand personalize learning experiences.",
+        "options": [
+          "artificial intelligence",
+          "three-toed sloth",
+          "Bradypus tridactylus",
+          "AI"
+        ],
+        "answer": "AI"
+      }
+    ]
+  },
+  {
+    "file": "Android Unit 1.pdf",
+    "num": 15,
+    "difficulty": "medium",
+    "time": "2025-09-29 10:33:37",
+    "mcqs": [
+      {
+        "question": "The core libraries in android runtime will enable us to implement android applications using\nstandard JAVA _____ language.",
+        "options": [
+          "scheduling",
+          "program",
+          "programme",
+          "programming"
+        ],
+        "answer": "programming"
+      },
+      {
+        "question": "\u2022 Media library for playing and recording audio and video formats\n\u2022 The Surface manager library to provide a _____ management\n\u2022 SGL and OpenGL Graphics libraries for 2D and 3D graphics\n\u2022 SQLite is for database support and FreeType for font support\n\u2022 Web-Kit for web browser support and SSL for Internet security.",
+        "options": [
+          "expose",
+          "showing",
+          "presentation",
+          "display"
+        ],
+        "answer": "display"
+      },
+      {
+        "question": "\u2022 In 2012, _____ released another version of android, 4.1 Jelly Bean.",
+        "options": [
+          "Googles",
+          "Googles",
+          "Google",
+          "Googles"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\"\npackage=\"com.example.helloworld\" >\n<application\nandroid:allowBackup=\"true\"\nandroid:icon=\"@mipmap/ic_launcher\"\nandroid:label=\"@string/app_name\"\nandroid:roundIcon=\"@mipmap/ic_launcher_round\"\nandroid:supportsRtl=\"true\"\nandroid:theme=\"@style/AppTheme\" >\n<activity android:name=\".MainActivity\" >\n<intent-filter>\n<action android:name=\"android.intent.action.MAIN\" />\n<category android:name=\"_____\n\" />\n</intent-filter>\n</activity>\n</application>\n</manifest>\nElements of the AndroidManifest.xml file\nThe elements used in the above xml file are described below.",
+        "options": [
+          "android.intent.category.LAUNCHERed",
+          "android.intent.category.LAUNCHER",
+          "android.intent.category.LAUNCHERing",
+          "android.intent.category.LAUNCHERs"
+        ],
+        "answer": "android.intent.category.LAUNCHER"
+      },
+      {
+        "question": "In Lollipop version Google\ncompletely revamped the UI by using Material Designs, which is good for the _____ Interface as\nwell for the themes related.",
+        "options": [
+          "exploiter",
+          "drug user",
+          "User",
+          "substance abuser"
+        ],
+        "answer": "User"
+      },
+      {
+        "question": "Storage SQLite, a lightweight relational database, is used for data storage purposes\nH.263, H.264, MPEG-4 SP, AMR, AMR-WB, AAC, HE-AAC, AAC 5.1, _____, MIDI, Ogg\nMedia support\nVorbis, WAV, JPEG, PNG, GIF, and BMP\nMessaging SMS and MMS\nBased on the open-source WebKit layout engine, coupled with Chrome's V8\nWeb browser\nJavaScript engine supporting HTML5 and CSS3.",
+        "options": [
+          "MP3s",
+          "MP3s",
+          "MP3s",
+          "MP3"
+        ],
+        "answer": "MP3"
+      },
+      {
+        "question": "and made a lot of _____ and additions to the android platform.",
+        "options": [
+          "shift",
+          "commute",
+          "deepen",
+          "changes"
+        ],
+        "answer": "changes"
+      },
+      {
+        "question": "\u2022 In 2007, Google released a first beta version of the Android Software Development Kit (SDK)\nand the first commercial version of Android 1.0 (with _____ Alpha), was released in September\n2008.",
+        "options": [
+          "nominate",
+          "name",
+          "refer",
+          "epithet"
+        ],
+        "answer": "name"
+      },
+      {
+        "question": "\u2022 android:label works as the default label for all the _____ components.",
+        "options": [
+          "diligence",
+          "application",
+          "application program",
+          "covering"
+        ],
+        "answer": "application"
+      },
+      {
+        "question": "The instrumentation classes provide profiling and other\ninformation_____s.",
+        "options": [
+          "\u2019ing",
+          "\u2019",
+          "\u2019ing",
+          "\u2019s"
+        ],
+        "answer": "\u2019"
+      },
+      {
+        "question": "Widgets are resizable, so users can expand them to show more content or shrink\nResizable _____\nthem to save space\nMulti-Language Support single direction and bi-directional text.",
+        "options": [
+          "widgets",
+          "whatchamacallit",
+          "thingmabob",
+          "gismo"
+        ],
+        "answer": "widgets"
+      },
+      {
+        "question": "_____ of Android\nUnit 1\n_____ of Android\nWhat is Android?",
+        "options": [
+          "Overviewed",
+          "Overviews",
+          "Overviews",
+          "Overview"
+        ],
+        "answer": "Overview"
+      },
+      {
+        "question": "The commonly used attributes are of this element are icon, _____, theme etc.",
+        "options": [
+          "label",
+          "pronounce",
+          "tag",
+          "judge"
+        ],
+        "answer": "label"
+      },
+      {
+        "question": "This element contains several sub elements that declares the _____ component\nsuch as activity etc.",
+        "options": [
+          "diligence",
+          "application program",
+          "covering",
+          "application"
+        ],
+        "answer": "application"
+      },
+      {
+        "question": "It is responsible for memory management, power management, device management,\nresource _____, etc.",
+        "options": [
+          "memory access",
+          "admission",
+          "admittance",
+          "access"
+        ],
+        "answer": "access"
+      }
+    ]
+  },
+  {
+    "file": "Android Unit 2[1].pdf",
+    "num": 19,
+    "difficulty": "medium",
+    "time": "2025-10-01 09:49:59",
+    "mcqs": [
+      {
+        "question": "In case if we create an Intent Filter for\n_____, there is a possibility for other apps to start our _____ by sending a certain type of intent\notherwise the _____ can be started only by an explicit intent.",
+        "options": [
+          "natural process",
+          "activity",
+          "bodily process",
+          "action"
+        ],
+        "answer": "activity"
+      },
+      {
+        "question": "We can add or remove _____ in an activity while the activity is running.",
+        "options": [
+          "fragments",
+          "fragment",
+          "fragmentize",
+          "break up"
+        ],
+        "answer": "fragments"
+      },
+      {
+        "question": "3\nAndroid Activities, Fragments, and Intents\nHere, in above example for Tablet we defined an _____ A with two fragments such as one is to\nshow the list of items and second one is to show the details of item which we selected in first\nfragment.",
+        "options": [
+          "Activity",
+          "bodily process",
+          "natural process",
+          "action"
+        ],
+        "answer": "Activity"
+      },
+      {
+        "question": "9\nAndroid Activities, Fragments, and Intents\nIn android when we create implicit _____, the android system will search for matching\ncomponents by comparing the contents of intent with intent filters which defined in\nthe manifest file of other apps on the device.",
+        "options": [
+          "purport",
+          "intents",
+          "aim",
+          "purpose"
+        ],
+        "answer": "intents"
+      },
+      {
+        "question": "For Handset device, there is no enough space to show both the fragments in single activity, so\nthe Activity A includes first fragment to show the _____ of items and the Activity B which includes\nanother fragment to display the details of an item which is selected in Activity A.",
+        "options": [
+          "leaning",
+          "list",
+          "name",
+          "number"
+        ],
+        "answer": "list"
+      },
+      {
+        "question": "MainActivity.java\npackage com.example.activityexample;\nimport android.app.Activity;\nimport android.os.Bundle;\nimport android.util.Log;\npublic class MainActivity extends Activity {\n@Override\nprotected void _____(Bundle savedInstanceState) {\nsuper._____(savedInstanceState);\nsetContentView(R.layout.activity_main);\nLog.d(\"lifecycle\",\"_____ invoked\");\n}\n@Override\nprotected void onStart() {\nsuper.onStart();\nLog.d(\"lifecycle\",\"onStart invoked\");\n}\n@Override\nprotected void onResume() {\nsuper.onResume();\nLog.d(\"lifecycle\",\"onResume invoked\");\n}\n@Override\nPROF. HARSH KANTAWALA, ASST.",
+        "options": [
+          "onCreates",
+          "onCreateing",
+          "onCreate",
+          "onCreates"
+        ],
+        "answer": "onCreate"
+      },
+      {
+        "question": "ACTION_SEND We can use this action in intent with startActivity(), when we have some data\nthat the user can share through another _____ such as an email _____, social sharing\n_____.",
+        "options": [
+          "apping",
+          "apps",
+          "app",
+          "apped"
+        ],
+        "answer": "app"
+      },
+      {
+        "question": "In\ncase if we did not define component name then the _____ system will decide which\ncomponent should receive intent based on other intent information such as action, data, etc.",
+        "options": [
+          "androided",
+          "mechanical man",
+          "android",
+          "humanoid"
+        ],
+        "answer": "android"
+      },
+      {
+        "question": "It is an optional to use _____ into activity but by doing this it will improve the flexibility of our app\nUI and make it easier to adjust our app design based on the device size.",
+        "options": [
+          "fragments",
+          "break up",
+          "fragment",
+          "fragmentize"
+        ],
+        "answer": "fragments"
+      },
+      {
+        "question": "Component Description\nStarting an By sending an Intent _____ to startActivity() method we can start a new Activity\nActivity or existing Activity to perform required things.",
+        "options": [
+          "objective",
+          "physical object",
+          "object",
+          "aim"
+        ],
+        "answer": "object"
+      },
+      {
+        "question": "Generally, in android, the fragment must be included in an _____ due to that the fragment lifecycle will\nalways be affected by the host _____ life cycle.",
+        "options": [
+          "activity",
+          "bodily process",
+          "natural process",
+          "action"
+        ],
+        "answer": "activity"
+      },
+      {
+        "question": "We can specify the _____ name of intent by using setAction() or with an Intent constructor.",
+        "options": [
+          "litigate",
+          "sue",
+          "natural process",
+          "action"
+        ],
+        "answer": "action"
+      },
+      {
+        "question": "For example, we can start a new\nactivity in response to a user _____ using explicit intents.",
+        "options": [
+          "litigate",
+          "natural process",
+          "sue",
+          "action"
+        ],
+        "answer": "action"
+      },
+      {
+        "question": "By using activities, we can place all our android\napplication UI components in a single _____.",
+        "options": [
+          "screen",
+          "silver screen",
+          "test",
+          "block out"
+        ],
+        "answer": "screen"
+      },
+      {
+        "question": "The view hierarchy associated with the fragment is being removed\n_____()\nafter executing this method.",
+        "options": [
+          "onDestoryView",
+          "onDestoryViewed",
+          "onDestoryViewed",
+          "onDestoryViews"
+        ],
+        "answer": "onDestoryView"
+      },
+      {
+        "question": "Example\nIt provides the details about the _____ of life cycle methods of activity.",
+        "options": [
+          "conjury",
+          "supplication",
+          "invocation",
+          "conjuring"
+        ],
+        "answer": "invocation"
+      },
+      {
+        "question": "In case if we pause an _____, all the fragments related\nto an _____ will also be stopped.",
+        "options": [
+          "activity",
+          "bodily process",
+          "action",
+          "natural process"
+        ],
+        "answer": "activity"
+      },
+      {
+        "question": "In android, we can insert the fragment into _____ layout by using <fragment> element and by dividing\nthe layout of _____ into fragments, we can modify the appearance of an app design at runtime.",
+        "options": [
+          "bodily process",
+          "action",
+          "activity",
+          "natural process"
+        ],
+        "answer": "activity"
+      },
+      {
+        "question": "Example for implicit intent in the android _____.",
+        "options": [
+          "application",
+          "coating",
+          "practical application",
+          "covering"
+        ],
+        "answer": "application"
+      }
+    ]
+  }
+]
